@@ -8,6 +8,7 @@
             "phone": "123456789",
             "country": "USA",
             "role": "client",
+            "skills": [],
             "address": "",
             "gender": "male"
         },
@@ -19,6 +20,7 @@
             "phone": "123456789",
             "country": "USA",
             "role": "client",
+            "skills": [],
             "address": "",
             "gender": "female"
         },
