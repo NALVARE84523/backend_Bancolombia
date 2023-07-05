@@ -114,5 +114,19 @@
             "category": "Reparacion y lavado de ventanas",
             "price": 32000
         }
+    ],
+    "skills": [
+        {
+            "id": 1,
+            "skill": "atencion al detalle"
+        },
+        {
+            "id": 2,
+            "skill": "limpieza"
+        },
+        {
+            "id": 3,
+            "skill": "rapidez"
+        }
     ]
 }
