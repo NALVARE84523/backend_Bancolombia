@@ -25,7 +25,7 @@
     ],
     "tasks": [
         {
-            "taskId": 1,
+            "id": 1,
             "userId": "Nelson",
             "price": 20000,
             "category": "Limpia de alfrombras",
@@ -39,7 +39,7 @@
             "assignedUserName": null
         },
         {
-            "taskId": 2,
+            "id": 2,
             "userId": "Nelson",
             "price": 20000,
             "category": "Limpia de alfrombras",
