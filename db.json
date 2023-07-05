@@ -56,51 +56,63 @@
     "categories": [
         {
             "categoryId": 1,
-            "category": "Limpia de alfrombras"
+            "category": "Limpia de alfrombras",
+            "price": 50000
         },
         {
             "categoryId": 2,
-            "category": "Paseador de perros"
+            "category": "Paseador de perros",
+            "price": 20000
         },
         {
             "categoryId": 3,
-            "category": "Reparaciones electricas"
+            "category": "Reparaciones electricas",
+            "price": 80000
         },
         {
             "categoryId": 4,
-            "category": "Catering de alimentos"
+            "category": "Catering de alimentos",
+            "price": 40000
         },
         {
             "categoryId": 5,
-            "category": "Domicilios"
+            "category": "Domicilios",
+            "price": 10000
         },
         {
             "categoryId": 6,
-            "category": "Reparacion de electrodomesticos"
+            "category": "Reparacion de electrodomesticos",
+            "price": 90000
         },
         {
             "categoryId": 7,
-            "category": "Limpieza de hogar"
+            "category": "Limpieza de hogar",
+            "price": 35000
         },
         {
             "categoryId": 8,
-            "category": "Reparaciones en hogar"
+            "category": "Reparaciones en hogar",
+            "price": 30000
         },
         {
             "categoryId": 9,
-            "category": "Jardineria"
+            "category": "Jardineria",
+            "price": 55000
         },
         {
             "categoryId": 10,
-            "category": "Cuidado de piscina"
+            "category": "Cuidado de piscina",
+            "price": 18000
         },
         {
             "categoryId": 11,
-            "category": "Plomeria"
+            "category": "Plomeria",
+            "price": 60000
         },
         {
             "categoryId": 12,
-            "category": "Reparacion y lavado de ventanas"
+            "category": "Reparacion y lavado de ventanas",
+            "price": 32000
         }
     ]
 }
