@@ -7,8 +7,100 @@
             "email": "nelson@nelson.c",
             "phone": "123456789",
             "country": "USA",
+            "role": "client",
             "address": "",
             "gender": "male"
+        },
+        {
+            "id": "Nelson2",
+            "name": "Nelson Alvarez",
+            "password": "Nelson",
+            "email": "nelson@nelson.c",
+            "phone": "123456789",
+            "country": "USA",
+            "role": "doer",
+            "address": "",
+            "gender": "male"
+        }
+    ],
+    "tasks": [
+        {
+            "taskId": 1,
+            "userId": "Nelson",
+            "price": 20000,
+            "category": "Limpia de alfrombras",
+            "description": "No se que poner de descripcion",
+            "requiredSkills": [
+                "atencion al detalle",
+                "limpieza",
+                "rapidez"
+            ],
+            "active": true,
+            "assignedUserName": null
+        },
+        {
+            "taskId": 2,
+            "userId": "Nelson",
+            "price": 20000,
+            "category": "Limpia de alfrombras",
+            "description": "No se que poner de descripcion",
+            "requiredSkills": [
+                "atencion al detalle",
+                "limpieza",
+                "rapidez"
+            ],
+            "active": true,
+            "assignedUserName": null
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 1,
+            "category": "Limpia de alfrombras"
+        },
+        {
+            "categoryId": 2,
+            "category": "Paseador de perros"
+        },
+        {
+            "categoryId": 3,
+            "category": "Reparaciones electricas"
+        },
+        {
+            "categoryId": 4,
+            "category": "Catering de alimentos"
+        },
+        {
+            "categoryId": 5,
+            "category": "Domicilios"
+        },
+        {
+            "categoryId": 6,
+            "category": "Reparacion de electrodomesticos"
+        },
+        {
+            "categoryId": 7,
+            "category": "Limpieza de hogar"
+        },
+        {
+            "categoryId": 8,
+            "category": "Reparaciones en hogar"
+        },
+        {
+            "categoryId": 9,
+            "category": "Jardineria"
+        },
+        {
+            "categoryId": 10,
+            "category": "Cuidado de piscina"
+        },
+        {
+            "categoryId": 11,
+            "category": "Plomeria"
+        },
+        {
+            "categoryId": 12,
+            "category": "Reparacion y lavado de ventanas"
         }
     ]
 }
