@@ -12,15 +12,39 @@
             "gender": "male"
         },
         {
+            "id": "Herlyn",
+            "name": "Herlyn Carima",
+            "password": "Herlyn",
+            "email": "herlyn@herlyn.com",
+            "phone": "123456789",
+            "country": "USA",
+            "role": "client",
+            "address": "",
+            "gender": "female"
+        },
+        {
             "id": "Nelson2",
             "name": "Nelson Alvarez",
             "password": "Nelson",
             "email": "nelson@nelson.c",
             "phone": "123456789",
+            "skills": ["informatica"],
             "country": "USA",
             "role": "doer",
             "address": "",
             "gender": "male"
+        },
+        {
+            "id": "Herlyn2",
+            "name": "Herlyn Carima",
+            "password": "Herlyn",
+            "email": "herlyn@herlyn.com",
+            "phone": "123456789",
+            "skills": ["contabilidad"],
+            "country": "USA",
+            "role": "doer",
+            "address": "",
+            "gender": "female"
         }
     ],
     "tasks": [
@@ -49,6 +73,26 @@
                 "limpieza",
                 "rapidez"
             ],
+            "active": true,
+            "assignedUserName": null
+        },
+        {
+            "id": 3,
+            "userId": "Nelson",
+            "price": 20000,
+            "category": "Limpia de alfrombras",
+            "description": "No se que poner de descripcion",
+            "requiredSkills": ["informatica"],
+            "active": true,
+            "assignedUserName": null
+        },
+        {
+            "id": 4,
+            "userId": "Herlyn",
+            "price": 20000,
+            "category": "Limpia de alfrombras",
+            "description": "No se que poner de descripcion",
+            "requiredSkills": ["contabilidad"],
             "active": true,
             "assignedUserName": null
         }
