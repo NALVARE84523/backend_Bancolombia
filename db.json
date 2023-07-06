@@ -57,13 +57,12 @@
             "category": "Limpieza de alfrombras",
             "description": "Prueba Nelson 1",
             "requiredSkills": [
-                "atencion al detalle",
-                "limpieza",
                 "rapidez"
             ],
             "active": true,
             "assignedUserName": null,
-            "state": "En espera"
+            "state": "En espera",
+            "date": "jueves, 6 de julio de 2023"
         },
         {
             "id": 2,
@@ -72,13 +71,12 @@
             "category": "Limpieza de alfrombras",
             "description": "Prueba Nelson 2",
             "requiredSkills": [
-                "atencion al detalle",
-                "limpieza",
-                "rapidez"
+                "limpieza"
             ],
             "active": true,
             "assignedUserName": null,
-            "state": "En espera"
+            "state": "En espera",
+            "date": "jueves, 6 de julio de 2023"
         },
         {
             "id": 3,
@@ -89,7 +87,8 @@
             "requiredSkills": ["informatica"],
             "active": true,
             "assignedUserName": null,
-            "state": "En espera"
+            "state": "En espera",
+            "date": "jueves, 6 de julio de 2023"
         },
         {
             "id": 4,
@@ -100,7 +99,8 @@
             "requiredSkills": ["contabilidad"],
             "active": true,
             "assignedUserName": null,
-            "state": "En espera"
+            "state": "En espera",
+            "date": "jueves, 6 de julio de 2023"
         }
     ],
     "categories": [
