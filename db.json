@@ -55,7 +55,7 @@
             "userId": "Nelson",
             "price": 20000,
             "category": "Limpieza de alfrombras",
-            "description": "No se que poner de descripcion",
+            "description": "Prueba Nelson 1",
             "requiredSkills": [
                 "atencion al detalle",
                 "limpieza",
@@ -70,7 +70,7 @@
             "userId": "Nelson",
             "price": 20000,
             "category": "Limpieza de alfrombras",
-            "description": "No se que poner de descripcion",
+            "description": "Prueba Nelson 2",
             "requiredSkills": [
                 "atencion al detalle",
                 "limpieza",
