@@ -53,7 +53,7 @@
         {
             "id": 1,
             "userId": "Nelson",
-            "price": 20000,
+            "price": "55.000,00 COP",
             "category": "Limpieza de alfrombras",
             "description": "Prueba Nelson 1",
             "requiredSkills": [
@@ -67,7 +67,7 @@
         {
             "id": 2,
             "userId": "Nelson",
-            "price": 20000,
+            "price": "55.000,00 COP",
             "category": "Limpieza de alfrombras",
             "description": "Prueba Nelson 2",
             "requiredSkills": [
@@ -81,7 +81,7 @@
         {
             "id": 3,
             "userId": "Herlyn",
-            "price": 20000,
+            "price": "55.000,00 COP",
             "category": "Limpieza de alfrombras",
             "description": "Prueba herlyn 1",
             "requiredSkills": ["informatica"],
@@ -93,7 +93,7 @@
         {
             "id": 4,
             "userId": "Herlyn",
-            "price": 20000,
+            "price": "55.000,00 COP",
             "category": "Declaracion de renta",
             "description": "Prueba herlyn 2",
             "requiredSkills": ["contabilidad"],
