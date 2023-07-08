@@ -222,5 +222,21 @@
             "id": 8,
             "skill": "analisis"
         }
+    ],
+    "notifications": [
+        {
+            "id": 1,
+            "notificationToRole": "client",
+            "notificationTo": "Nelson",
+            "notificationOf": "Nelson2",
+            "message": "Ya he finalizado la actividad"
+        },
+        {
+            "id": 1,
+            "notificationToRole": "doer",
+            "notificationTo": "Nelson2",
+            "notificationOf": "Nelson",
+            "message": "Ya he realizado el pago"
+        }
     ]
 }
