@@ -56,9 +56,7 @@
             "price": "55.000,00 COP",
             "category": "Limpieza de alfrombras",
             "description": "Prueba Nelson 1",
-            "requiredSkills": [
-                "rapidez"
-            ],
+            "requiredSkills": "rapidez",
             "stateCode": "enabled",
             "assignedUserName": null,
             "state": "En espera",
@@ -70,9 +68,7 @@
             "price": "55.000,00 COP",
             "category": "Limpieza de alfrombras",
             "description": "Prueba Nelson 2",
-            "requiredSkills": [
-                "limpieza"
-            ],
+            "requiredSkills": "limpieza",
             "stateCode": "enabled",
             "assignedUserName": null,
             "state": "En espera",
@@ -84,7 +80,7 @@
             "price": "55.000,00 COP",
             "category": "Limpieza de alfrombras",
             "description": "Prueba herlyn 1",
-            "requiredSkills": ["informatica"],
+            "requiredSkills": "informatica",
             "stateCode": "enabled",
             "assignedUserName": null,
             "state": "En espera",
@@ -96,12 +92,36 @@
             "price": "55.000,00 COP",
             "category": "Declaracion de renta",
             "description": "Prueba herlyn 2",
-            "requiredSkills": ["contabilidad"],
+            "requiredSkills": "contabilidad",
             "stateCode": "enabled",
             "assignedUserName": null,
             "state": "En espera",
             "date": "jueves, 6 de julio de 2023"
-        }
+        },
+        {
+            "id": 5,
+            "userId": "Herlyn",
+            "price": "55.000,00 COP",
+            "category": "Declaracion de renta",
+            "description": "Prueba herlyn 2",
+            "requiredSkills": "limpieza,rapidez",
+            "stateCode": "enabled",
+            "assignedUserName": null,
+            "state": "En espera",
+            "date": "jueves, 6 de julio de 2023"
+        },
+        {
+            "id": 59,
+            "userId": "Nelson",
+            "category": "Catering de alimentos",
+            "requiredSkills": "atencion al cliente,rapidez,informatica",
+            "description": "No se aun, pero ya casi",
+            "price": "40.000,00 COP",
+            "stateCode": "enabled",
+            "assignedUserName": null,
+            "state": "En espera",
+            "date": "lunes, 10 de julio de 2023"
+          }
     ],
     "categories": [
         {
