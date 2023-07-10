@@ -59,7 +59,7 @@
             "requiredSkills": [
                 "rapidez"
             ],
-            "active": true,
+            "stateCode": "enabled",
             "assignedUserName": null,
             "state": "En espera",
             "date": "jueves, 6 de julio de 2023"
@@ -73,7 +73,7 @@
             "requiredSkills": [
                 "limpieza"
             ],
-            "active": true,
+            "stateCode": "enabled",
             "assignedUserName": null,
             "state": "En espera",
             "date": "jueves, 6 de julio de 2023"
@@ -85,7 +85,7 @@
             "category": "Limpieza de alfrombras",
             "description": "Prueba herlyn 1",
             "requiredSkills": ["informatica"],
-            "active": true,
+            "stateCode": "enabled",
             "assignedUserName": null,
             "state": "En espera",
             "date": "jueves, 6 de julio de 2023"
@@ -97,7 +97,7 @@
             "category": "Declaracion de renta",
             "description": "Prueba herlyn 2",
             "requiredSkills": ["contabilidad"],
-            "active": true,
+            "stateCode": "enabled",
             "assignedUserName": null,
             "state": "En espera",
             "date": "jueves, 6 de julio de 2023"
