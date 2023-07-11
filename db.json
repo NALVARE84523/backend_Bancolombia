@@ -188,25 +188,25 @@
             "categoryId": 11,
             "category": "Plomeria",
             "price": 60000,
-            "image": "https://i.postimg.cc/85ZzRcxV/cuidado-piscina.webp"
+            "image": "https://i.postimg.cc/7hp4QvbN/plomeria.webp"
         },
         {
             "categoryId": 12,
             "category": "Reparacion y lavado de ventanas",
             "price": 32000,
-            "image": "https://i.postimg.cc/85ZzRcxV/cuidado-piscina.webp"
+            "image": "https://i.postimg.cc/4dxXYbrp/ventanas.webp"
         },
         {
             "categoryId": 13,
             "category": "Declaracion de renta",
             "price": 100000,
-            "image": "https://i.postimg.cc/85ZzRcxV/cuidado-piscina.webp"
+            "image": "https://i.postimg.cc/T1yG922w/renta.webp"
         },
         {
             "categoryId": 13,
             "category": "Desarollo de aplicativo",
             "price": 100000,
-            "image": "https://i.postimg.cc/85ZzRcxV/cuidado-piscina.webp"
+            "image": "https://i.postimg.cc/wv4gLRpZ/desarrollo.webp"
         }
     ],
     "skills": [
