@@ -5,48 +5,48 @@
             "name": "Nelson Alvarez",
             "password": "Nelson",
             "email": "nelson@nelson.c",
-            "phone": "123456789",
-            "country": "USA",
             "role": "client",
-            "skills": [],
-            "address": "",
-            "gender": "male"
+            "skills": []
         },
         {
             "id": "Herlyn",
             "name": "Herlyn Carima",
             "password": "Herlyn",
             "email": "herlyn@herlyn.com",
-            "phone": "123456789",
-            "country": "USA",
             "role": "client",
-            "skills": [],
-            "address": "",
-            "gender": "female"
+            "skills": []
         },
         {
             "id": "Nelson2",
             "name": "Nelson Alvarez",
             "password": "Nelson",
             "email": "nelson@nelson.c",
-            "phone": "123456789",
             "skills": ["informatica"],
-            "country": "USA",
-            "role": "doer",
-            "address": "",
-            "gender": "male"
+            "role": "doer"
         },
         {
             "id": "Herlyn2",
             "name": "Herlyn Carima",
             "password": "Herlyn",
             "email": "herlyn@herlyn.com",
-            "phone": "123456789",
             "skills": ["contabilidad"],
-            "country": "USA",
-            "role": "doer",
-            "address": "",
-            "gender": "female"
+            "role": "doer"
+        },
+        {
+            "id": "TestBancolombiaDoer",
+            "name": "TestBancolombiaDoer",
+            "password": "Bancolombia123",
+            "email": "bancolombia@bancolombia.com",
+            "skills": ["contabilidad"],
+            "role": "doer"
+        },
+        {
+            "id": "TestBancolombiaClient",
+            "name": "TestBancolombiaClient",
+            "password": "Bancolombia123",
+            "email": "bancolombia2@bancolombia2.com",
+            "skills": [],
+            "role": "client"
         }
     ],
     "tasks": [
